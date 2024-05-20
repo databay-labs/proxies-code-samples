@@ -1,0 +1,1 @@
+curl -U "USERNAME:PASSWORD" -x resi-global-gateways.databay.com:7676 "https://databay.com/cdn-cgi/trace"
